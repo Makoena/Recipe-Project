@@ -1,6 +1,6 @@
 body{
-    background-color: hsl(hue, saturation, lightness);
-    padding: 123px;
+    background-color:bisque;
+    padding: 200px;
 }
 main{
     background-color: white;
@@ -15,7 +15,7 @@ img{
 }
 
 .title h1 {
-	font-family:  Serif;
+	font-family:'young Serif';
 	font-size: 40px;
 	color:black;
 }
