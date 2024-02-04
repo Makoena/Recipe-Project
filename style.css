@@ -1,0 +1,126 @@
+body{
+    background-color: hsl(hue, saturation, lightness);
+    padding: 123px;
+}
+main{
+    background-color: white;
+    border-radius: 24px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    border-radius: 12px;
+    width: 100%;
+}
+
+.title h1 {
+	font-family:  Serif;
+	font-size: 40px;
+	color:black;
+}
+
+.title p {
+	font-family: 'Outfit';
+	font-weight: 400;
+	font-size: 16px;
+	color: hsl(30, 10%, 34%)
+}
+hr {
+ margin-block-start: 30px;
+ color: lightgrey;
+}
+
+a {
+    color: black;
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: medium;
+}
+
+li {
+    padding-left: 16px;
+    color:brown;
+    font-weight: 400;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+ol{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.preparation {
+	background-color: hsl(330, 100%, 98%);
+	border-radius: 12px;
+}
+
+.preparation p {
+	padding-left: 20px;
+	font-size: 20px;
+	font-family: 'Outfit';
+	font-weight: 600;
+	color: hsl(332, 51%, 32%);
+}
+.preparation li {
+	color: hsl(332, 51%, 32%);
+	font-weight: 600;
+}
+
+.ingredients p {
+	font-family: Serif;
+	font-size: 28px;
+	font-weight: 400;
+	color: #854632;
+}
+
+.instructions p {
+	font-family: Serif;
+	font-size: 28px;
+	font-weight: 400;
+	color: #854632;
+}
+
+.nutrition h2 {
+	font-family: 'Young Serif';
+	font-size: 28px;
+	font-weight: 400;
+	color: #854632;
+}
+
+.nutrition p {
+	font-family: 'Outfit';
+	font-weight: 400;
+	font-size: 16px;
+	color: hsl(30, 10%, 34%)
+}
+.nutrition div div {
+	display: flex;
+	font-family: 'Outfit';
+	color: hsl(332, 51%, 32%);
+	padding: 0 32px;
+}
+
+.nutrition div div a {
+	width: 288px;
+	padding-right: 76px;
+}
+
+.nutrition div div div {
+	font-weight: 600;
+	width: 288px;
+	padding-right: 76px;
+}
+
+.nutrition .table hr {
+	color: #E3DDD7;
+	margin-block-start: 12px;
+}
+
+
